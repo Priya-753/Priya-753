@@ -5,6 +5,8 @@ I have Bachelor’s of Engineering degree focused in Computer Science and Engine
 
 🌱 What do I do and What have I done?
 
+- MS in CS in Georgia Institute of Technology
+- SDE II in Dealsplus Pvt Limited
 - Co-Founder at Avinya
 - Ex-D.E. Shaw & Co
 

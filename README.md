@@ -1,4 +1,4 @@
-# Hi, I'm Priyadarshini Tamilselvan! 👋
+# Hi, I'm Priya! 👋
 
 I am a **problem solver** with a passion for **innovation** and **creativity**. With a strong foundation in **Data Structures** and **Algorithms**, I work on tackling complex challenges and delivering impactful solutions. I hold a **Bachelor’s in CS** from **PSG College of Technology** and I am currently pursuing a **Master’s in CS** at **Georgia Tech**.
 

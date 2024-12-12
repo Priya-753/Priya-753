@@ -6,7 +6,7 @@ I am an **experienced full-stack developer** with expertise in **React, Redux, J
 
 ## 🚀 What am I working on?
 
-- **MS in CS at Georgia Tech:** Focusing on **AI, machine learning**, and **robotics**, with hands-on experience in projects related to **computer vision**, **reinforcement learning**, and **robotic dexterity**.
+- **MS in CS at Georgia Tech:** Focusing on **AI, machine learning**, and **robotics**, with hands-on experience in projects related to **computer vision**, **reinforcement learning**, and **robotic dexterity** with Prof. Animesh Garg. I also have had the pleasure to work along with Prof. Thad Starner
 - **SDE II at Dealsplus Pvt Ltd:** Building scalable solutions and enhancing platform performance while delivering user-centric features.
 - **Co-Founder at Avinya:** Co-founded a startup to create innovative products, where I led **product development** and **full-stack engineering** efforts.
 - **Ex-D.E. Shaw & Co:** Gained experience in **financial tech**, building impactful tools for data analysis, risk monitoring, and financial forecasting.

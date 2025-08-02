@@ -1,13 +1,13 @@
 # Hi, I'm Priya!
 
-I am a **problem solver** with a passion for **innovation** and **creativity**, dedicated to advancing **AI technologies** and solving real-world challenges. Currently pursuing a **Master’s in Computer Science** at **Georgia Tech**, I am actively involved in cutting-edge research as a **researcher at the PAIR Lab**, where I focus on **robotic manipulation**, **reinforcement learning**, and **vision-based AI**. My recent projects include exploring **Vision-Language Models (VLMs)**, working with **multi-agent AI** systems, and developing **CV-based games** to evaluate **passive haptic rehab gloves** for **rehabilitation**.
+Currently pursuing a **Master’s in Computer Science** at **Georgia Tech**. I am actively involved in research as a **researcher at the PAIR Lab**, trying to get my hands dirty in robotics just to get an idea of what the fields is all about. Here, I focus on **robotic manipulation**, **reinforcement learning**, and **vision-based AI**. My recent projects include exploring **multi-agent AI** systems, and developing **CV-based games** to evaluate **passive haptic rehab gloves** for **rehabilitation**.
 
-As a **full-stack developer** with expertise in **React, Redux, Java**, **Spring Framework**, **Android Development**, and **Python**, I bring a strong technical background to both software development and machine learning. My work spans areas such as **AI-driven healthcare automation**, **fine tuning LLM for neologisms** and **Multi Agent AI- for Text to SQL** and I am passionate about creating impactful solutions through **AI innovation**. With experience in both **entrepreneurship** and **team leadership**, I thrive in building solutions that push the boundaries of technology and improve lives.
+As a **full-stack research engineer** with expertise in **React, Next Js, Rust, Fast API, Java**, **Spring Framework**, **Android Development**, and **Python**, I bring a strong technical background to both software development and machine learning. My work spans areas such as **AI-driven healthcare automation**, **fine tuning LLM for neologisms** and **Multi Agent AI- for Text to SQL** and I am passionate about creating impactful solutions through **AI innovation**. With experience in both **entrepreneurship** and **team leadership**.
 
 ## What am I working on?
 
 - **MS in CS at Georgia Tech:** Focusing on **AI, machine learning**, and **robotics**, with hands-on experience in projects related to **computer vision**, **reinforcement learning**, and **robotic dexterity** with Prof. Animesh Garg. I also have had the pleasure to work along with Prof. Thad Starner
-- **SDE II at Dealsplus Pvt Ltd:** Building scalable solutions and enhancing platform performance while delivering user-centric features.
+- **SDE III at Dealsplus Pvt Ltd:** Building scalable solutions and enhancing platform performance while delivering user-centric features.
 - **Co-Founder at Avinya:** Co-founded a startup to create innovative products, where I led **product development** and **full-stack engineering** efforts.
 - **Ex-D.E. Shaw & Co:** Gained experience in **financial tech**, building impactful tools for data analysis, risk monitoring, and financial forecasting.
 
